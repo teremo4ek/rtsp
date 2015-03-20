@@ -1,2 +1,2 @@
 # rtsp
-test rtsp 
+test rtsp with gstreamer
